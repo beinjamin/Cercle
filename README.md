@@ -1,3 +1,7 @@
+Environement : IntelliJ IDE
+Langage : Java 
+
+
 Exercice 1 : Cercle
 Le but de cet exercice est d'écrire une classe représentant les cercles.
 Écrivez un programme TestCercle.java dans lequel vous définissez une classe Cercle ayant comme attributs privés le rayon du cercle
